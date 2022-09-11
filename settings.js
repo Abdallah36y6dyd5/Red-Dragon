@@ -1,6 +1,6 @@
 //════════════(00)════════════════\\
 //
-//          RED DRAGON v6.0
+//          An-Would v6.0
 //
 //════════════(00)════════════════\\
 
@@ -19,23 +19,23 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is Natsu🔥
-My Creator AYATO 😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is Silvers Rayleigh🦦
+My Creator is Silvers Rayleigh🦦` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+96891103640'] //Owner number in aive msg
-global.premium = ['+96891103640'] //Owner Number info
-global.ownernomer = '+96891103640' //Owner Number <<<
+global.owner = ['+967712898343'] //Owner number in aive msg
+global.premium = ['+967712898343'] //Owner Number info
+global.ownernomer = '+967712898343' //Owner Number <<<
 
-global.ownername = '🔥AYATO🔥' //Owner Name
-global.botname = '🔥NATSU DRAGNEEL🔥' //Bot Name
+global.ownername = 'Raleigh🦦'//Owner Name
+global.botname = 'Rayleigh Bot🦦' //Bot Name
 
-global.button = 'YouTube 📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://www.youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw' //Change Your Button's URL
+global.button = 'رقمي 📍' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://wa.me/qr/NARHOG6BZO4BB1' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '🔥E.N.D🔥' //Bot Pacage Name
-global.author = '+96891103640❯❯' //Author Name
+global.packname = 'بوت رايلي🦦' //Bot Pacage Name
+global.author = '+967712898343❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
